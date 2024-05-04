@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/VideoCalling/static/css/main.6cfd0f0d.css",
-    "main.js": "/VideoCalling/static/js/main.c1dc4a3a.js",
+    "main.css": "/VideoCalling/static/css/main.61c2cc09.css",
+    "main.js": "/VideoCalling/static/js/main.e9b8faf0.js",
     "static/js/453.42a539d0.chunk.js": "/VideoCalling/static/js/453.42a539d0.chunk.js",
     "static/media/background.jpg": "/VideoCalling/static/media/background.1b558e9fd7bd79deb664.jpg",
     "index.html": "/VideoCalling/index.html",
-    "main.6cfd0f0d.css.map": "/VideoCalling/static/css/main.6cfd0f0d.css.map",
-    "main.c1dc4a3a.js.map": "/VideoCalling/static/js/main.c1dc4a3a.js.map",
+    "main.61c2cc09.css.map": "/VideoCalling/static/css/main.61c2cc09.css.map",
+    "main.e9b8faf0.js.map": "/VideoCalling/static/js/main.e9b8faf0.js.map",
     "453.42a539d0.chunk.js.map": "/VideoCalling/static/js/453.42a539d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cfd0f0d.css",
-    "static/js/main.c1dc4a3a.js"
+    "static/css/main.61c2cc09.css",
+    "static/js/main.e9b8faf0.js"
   ]
 }
