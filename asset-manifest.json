@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/VideoCalling/static/css/main.61c2cc09.css",
-    "main.js": "/VideoCalling/static/js/main.971563ed.js",
+    "main.js": "/VideoCalling/static/js/main.ebc32b18.js",
     "static/js/453.42a539d0.chunk.js": "/VideoCalling/static/js/453.42a539d0.chunk.js",
     "static/media/background.jpg": "/VideoCalling/static/media/background.1b558e9fd7bd79deb664.jpg",
     "index.html": "/VideoCalling/index.html",
     "main.61c2cc09.css.map": "/VideoCalling/static/css/main.61c2cc09.css.map",
-    "main.971563ed.js.map": "/VideoCalling/static/js/main.971563ed.js.map",
+    "main.ebc32b18.js.map": "/VideoCalling/static/js/main.ebc32b18.js.map",
     "453.42a539d0.chunk.js.map": "/VideoCalling/static/js/453.42a539d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61c2cc09.css",
-    "static/js/main.971563ed.js"
+    "static/js/main.ebc32b18.js"
   ]
 }
