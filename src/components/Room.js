@@ -9,6 +9,8 @@ export default function Room() {
     const server = String(process.env.REACT_APP_SERVER)
     const {roomId} =  useParams();
 
+    let location = windows.location.href;
+
     const meeting  = async (element)=>{
         const appId = id;
         const serverSecret = server;
@@ -19,7 +21,7 @@ export default function Room() {
             sharedLinks : [
                 {
                     name : 'Copy Link',
-                    url : `https://MrMahmoodAlam.github.io/VideoCalling/room/${roomId}`
+                    url : `${location}/room/${roomId}`
                 }
             ],
             scenario : {
